@@ -1,3 +1,9 @@
-/* #screen{
+#screen{
     background-color: green;
-} */
+    float: left;
+}
+#score{
+    float: left;
+    font-size: 24px;
+    margin-left: 10px
+}
